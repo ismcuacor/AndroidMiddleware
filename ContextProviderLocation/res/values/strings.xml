@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContextProviderLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Soy el contextProvider de localización</string>
+    <string name="Altitud">La altitud a la que nos encontramos es de: </string>
+    <string name="Longitud">La localizacion en la que nos encontramos es: </string>
+
+</resources>
